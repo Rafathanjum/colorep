@@ -36,5 +36,12 @@ Java is a class-based, object-oriented programming language that is designed to 
  3|Neelofer|100
  
  # insert image:
- [my all time fav](img.jpg)
+ ![alt mine](img.jpg)
+ 
+ # insert a code:
+ sum of two numbers by using python
+  a=7
+  b=7
+  c=a+b
+  print("the sum {} and {} is{}".format(a,b,c))
  
