@@ -35,3 +35,6 @@ Java is a class-based, object-oriented programming language that is designed to 
  2|Nikhitha|100
  3|Neelofer|100
  
+ # insert image:
+ [my all time fav](img.jpg)
+ 
