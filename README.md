@@ -27,3 +27,11 @@ Java is a class-based, object-oriented programming language that is designed to 
  syntax for create a link in markdown [text](url)
  
  Ex:[google](https://www.google.com)
+ 
+ # Create a table
+ s.no|s.name|s.marks
+ ----|-------|-----------------
+ 1|Rafath|100
+ 2|Nikhitha|100
+ 3|Neelofer|100
+ 
